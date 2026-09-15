@@ -1,4 +1,4 @@
-# Customer Shopping Behavior Analysis
+# Customer Analytics &  Business Intelligence
 
 ## Project Overview
 This project implements an end-to-end customer analytics workflow using Python, SQL, and Power BI. It covers data preparation, exploratory analysis, database querying, dashboard development, and business insight generation.
